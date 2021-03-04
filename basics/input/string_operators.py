@@ -1,14 +1,14 @@
-print("Please enter the number of lives:")
-lives =  input(int())
-print("\n")
-print("Please enter the energy level:")
-energy = input(int())
-print("\n")
-print("Please enter the shield level:")
-shield = input(int())
-print("\n")
-print("Health has been set")
-print("\n")
-print("Lives =",lives)
-print("Energy =",energy)
-print("Shield =",shield)
+
+print("Please enter number of lives")
+lives = int(input())
+
+print("Please enter energy level")
+energy = int(input())
+
+print("Please enter shield level")
+shield = int(input()) 
+
+
+print("Lives:", "♥" * lives)
+print("Energy:", "♦" * energy)
+print("Shield:", "♦" * shield)
