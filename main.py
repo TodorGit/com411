@@ -1,14 +1,10 @@
-password = "hello"
-attempt=1
-user_input = input("Please enter your password: ")
+print( input("Please enter a whole number : "))
+u_input = int(input())
 
-while (password !=  user_input):
-  attempt = attempt +1
-  print("Wrong! Try again!")
-  user_input = input("Please enter your password: ")
-  if(attempt>3):
-    print("long delay")
-  if(attempt > 10):
-    print("TERMINATE")
+if( u_input % 2 == 0):
+  print("The number "+ u_input +" is an even number!")
+  
+else: print("The number "+u_input+" is an odd number!")
 
-print("Welcome!")
+
+
