@@ -47,36 +47,6 @@
 
 # run()
 
-def display_box(u_input):
-  dashes = 4 + len(word)
-    print("-" * dasheprs)
-    print("| {} |".format(word))
-    print("-" * num_dashes)
-
-def lower_case(u_input):
-  print(s.lower(u_input))
-
-def upper_case(u_input)
-  print(s.uppr(u_input))
-
-def mirror_message(u_input)
-  print()
-
-
-
-
-
-
-
-
-
-
-
-
-u_input = input("Please enter a word: ")
-
-
-
 
 
 
