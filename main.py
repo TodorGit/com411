@@ -48,12 +48,18 @@
 # run()
 
 
+# a = [3,8,5,2, 0]
+# sum = 0
+# for i in a:
+#   sum =sum + i
 
+# print(sum)
 
+# a = [3,8,5,2, 0]
 
-
-
-
+# for i in a:
+#   print(0)
+  
 
 
 
