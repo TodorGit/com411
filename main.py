@@ -177,6 +177,7 @@
 # process_type()
 # print(process_type())
 
+# <<<<<<< HEAD
 # def entity_name():
 #   name = input("Please enter a name of an entity ")
 #   return name
@@ -232,3 +233,11 @@
 #   tulip_result =(lower_limit, higher_limit)
 #   return tulip_result
 # gravity_range()
+# =======
+# def entity_name():
+#   name = input("Please enter a name of an entity ")
+#   return name
+
+# entity_name()
+
+
