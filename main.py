@@ -226,9 +226,9 @@
 #      print("Please eneter one of the options")
 #      return
 
-def gravity_range():
-  lower_limit = float(input("Please enter the lower limit: "))
-  higher_limit = float(input("Please enter the higher limit: "))
-  tulip_result =(lower_limit, higher_limit)
-  return tulip_result
-gravity_range()
+# def gravity_range():
+#   lower_limit = float(input("Please enter the lower limit: "))
+#   higher_limit = float(input("Please enter the higher limit: "))
+#   tulip_result =(lower_limit, higher_limit)
+#   return tulip_result
+# gravity_range()
