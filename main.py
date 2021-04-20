@@ -239,6 +239,7 @@
 #   return name
 
 # entity_name()
+<<<<<<< HEAD
 # def list_entity(data, cols=[]):
 #   for i in cols:
 #    print(data[i],end =" ")
@@ -271,3 +272,7 @@
 # def list_categories(categories):
 #   print(categories['names'])
 # list_categories(categories={'names':["John","Bully"]})
+=======
+
+
+>>>>>>> a392390bb56a0c41b5a7e9a4f415ef2f9d87baeb
