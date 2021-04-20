@@ -177,6 +177,7 @@
 # process_type()
 # print(process_type())
 
+# <<<<<<< HEAD
 # def entity_name():
 #   name = input("Please enter a name of an entity ")
 #   return name
@@ -232,3 +233,41 @@
 #   tulip_result =(lower_limit, higher_limit)
 #   return tulip_result
 # gravity_range()
+# =======
+# def entity_name():
+#   name = input("Please enter a name of an entity ")
+#   return name
+
+# entity_name()
+# def list_entity(data, cols=[]):
+#   for i in cols:
+#    print(data[i],end =" ")
+   
+
+#   if cols==[]:
+#     print(data)
+
+# data = ['Earth',True, 9.8]
+# list_entity(data,[0,1,2])
+
+
+# # entity = ["Earth",True,9.8]
+# # cols=""
+# # if (len(cols)==0):
+# #   for z in entity:
+# #     print(z)
+
+
+# def list_entities(entities, cols =[]):
+#   for i in cols:
+#     print(entities[i])
+  
+#   if cols==[]:
+#     print(entities)
+
+
+# list_entities([["earth",True,9.8],["asd",True,9.8],["dsa",True,9.8]],cols=[])
+
+# def list_categories(categories):
+#   print(categories['names'])
+# list_categories(categories={'names':["John","Bully"]})
